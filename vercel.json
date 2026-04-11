@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "react",
+  "outputDirectory": "dist",
+  "env": {
+    "VITE_STRIPE_PUBLIC_KEY": "@stripe_public_key"
+  }
+}

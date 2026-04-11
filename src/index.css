@@ -1,0 +1,69 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-monger-black text-monger-cream font-body;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-block bg-monger-orange text-monger-black px-10 py-4 font-medium tracking-widest uppercase text-sm transition-colors hover:bg-orange-600;
+  }
+
+  .btn-ghost {
+    @apply inline-block border border-monger-cream/30 text-monger-cream px-10 py-4 font-normal tracking-widest uppercase text-sm transition-colors hover:border-monger-orange hover:text-monger-orange;
+  }
+
+  .btn-dark {
+    @apply inline-block bg-monger-black text-monger-cream px-12 py-4 font-medium tracking-widest uppercase text-sm transition-colors hover:bg-monger-charcoal;
+  }
+
+  .section-label {
+    @apply flex items-center gap-4 text-xs tracking-widest uppercase text-monger-orange mb-6;
+  }
+
+  .section-label::before {
+    @apply block w-8 h-px bg-monger-orange;
+    content: '';
+  }
+
+  .section-title {
+    @apply font-display text-4xl md:text-5xl lg:text-6xl leading-none mb-8;
+  }
+
+  .reveal {
+    @apply opacity-0 transition-all duration-700;
+  }
+
+  .reveal.visible {
+    @apply opacity-100;
+  }
+}
+
+/* React Calendar Styling */
+.react-calendar {
+  @apply bg-monger-charcoal border border-monger-orange/20 rounded-lg p-4;
+}
+
+.react-calendar__tile {
+  @apply text-monger-cream hover:bg-monger-orange/20;
+}
+
+.react-calendar__tile--active {
+  @apply bg-monger-orange text-monger-black;
+}
+
+.react-calendar__navigation {
+  @apply mb-4;
+}
+
+.react-calendar__navigation button {
+  @apply text-monger-cream hover:text-monger-orange;
+}

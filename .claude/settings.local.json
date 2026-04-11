@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(wait byv851sv3:*)",
+      "Bash(npm install:*)",
+      "Bash(git init:*)",
+      "Bash(wait but4ykpnh:*)",
+      "Bash(npm --version)",
+      "Bash(wait bv9f87cpp:*)",
+      "Bash(npm run:*)",
+      "Bash(npx vite:*)",
+      "Bash(wait bj90363lo:*)",
+      "Bash(wait bpzsfe0xd:*)",
+      "Bash(npm list:*)",
+      "Bash(wait be03mm7cr:*)",
+      "Bash(wait bjjc0t32q:*)",
+      "Bash(wait bl762u0ls:*)",
+      "Bash(wait bh38453rl:*)",
+      "Bash(wait b8p1bxnl0:*)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(curl -s -m 5 http://localhost:5173)",
+      "Bash(netstat -tuln)",
+      "Bash(curl -s http://localhost:5173/src/main.jsx)",
+      "Bash(curl -s http://localhost:5173/src/index.css)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git branch:*)",
+      "Bash(git remote:*)"
+    ]
+  }
+}
