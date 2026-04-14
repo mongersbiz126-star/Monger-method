@@ -192,5 +192,5 @@ For issues or questions:
 
 ## License
 
-Built for The Monger Method. All rights reserved.
+Built for The Monger Method. All rights reserved.\n\n<!-- Deployment trigger -->
 # Monger-method
