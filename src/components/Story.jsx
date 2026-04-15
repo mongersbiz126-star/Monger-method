@@ -31,29 +31,41 @@ export default function Story() {
             <h2 className="section-title">How the Method Came to Be</h2>
 
             <p className="text-monger-cream opacity-80 text-lg leading-relaxed">
-              I started like everyone else — following programs, pushing hard, getting injured. <strong className="text-monger-orange">The pattern was always the same:</strong> months of pain, missed workouts, and then a reset.
+              Fitness has been the one constant thread in my life—not as a before-and-after project, but as a way of thinking, living, and coming home to myself.
             </p>
 
             <p className="text-monger-cream opacity-80 text-lg leading-relaxed">
-              The turning point came when I stopped asking "How strong can I get?" and started asking "Why do I keep breaking?" The answer wasn't complicated: I was building on broken foundations.
+              I started young. <strong className="text-monger-orange">Track taught me honesty</strong>—run hard and your lungs tell the truth. Pickup sports taught me rhythm, competition, and joy without polish. Weightlifting taught me humility, focus, and the difference between ego and effort.
+            </p>
+
+            <p className="text-monger-cream opacity-80 text-lg leading-relaxed">
+              In my mid-20s, I made a decision that wasn't just about training—it was about freedom. I became a coach right before the pandemic. When the world shut down, most routines collapsed. Most people didn't quit because they didn't care—they quit because motivation isn't a plan.
             </p>
 
             <div className="border-l-4 border-monger-gold bg-monger-gold/10 p-6 my-8">
               <p className="text-monger-gold italic text-lg leading-relaxed">
-                "Everything you build without a foundation is temporary. The pain, the injuries, the constant resets — they weren't failures. They were feedback that I was doing the sequence wrong."
+                One client stayed. A friend with recurring knee injuries who trusted me to help him rebuild. Day by day, rep by rep, we solved real problems in a real body. That's when it clicked: training isn't about workouts. It's about confidence. Capability. Learning to move again without fear.
               </p>
             </div>
 
             <p className="text-monger-cream opacity-80 text-lg leading-relaxed">
-              That's when I flipped the script. I spent three years researching nervous system development, breath mechanics, and movement patterns. I tested every variable. I found what worked.
+              Now in my mid-30s, I move as well—if not better—than I did in my 20s. Not because I'm special. <strong className="text-monger-orange">Because I stayed in conversation with my body.</strong>
             </p>
 
             <p className="text-monger-cream opacity-80 text-lg leading-relaxed">
-              The result is seven sequences, built in order. Not theory. Not trend. <strong className="text-monger-orange">Tested on myself and on hundreds of clients</strong> who've gone from chronic pain to athletic performance.
+              My approach blends strength, performance, recovery, and awareness. Joint-respecting training. Athletic movement. Breath and recovery used strategically. The mind involved in every rep.
             </p>
 
             <p className="text-monger-cream opacity-80 text-lg leading-relaxed">
-              This is The Monger Method. It's not the fastest way to get strong. It's the way that actually works.
+              I'm here for people who want more than aesthetics. People who want to trust their bodies again.
+            </p>
+
+            <p className="text-monger-cream opacity-80 text-lg leading-relaxed">
+              <strong className="text-monger-orange">Because the real flex isn't a six-pack.</strong>
+            </p>
+
+            <p className="text-monger-cream opacity-80 text-lg leading-relaxed">
+              It's moving through your life strong, capable, and unafraid.
             </p>
           </div>
         </div>
